@@ -1,0 +1,24 @@
+﻿.sdbtn {
+    
+    font-family: 'Adobe Caslon Pro Bold';
+    font-size: medium;
+    font-weight: bold;
+    color: #0066FF;
+    border-radius: 25px;
+    border: 2px solid #0066FF;
+    padding: 20px; 
+    width: 200px;
+    height: 50px; 
+}
+    .sdbtn:hover {
+         border-color: #0066FF;
+    font-family: 'Adobe Caslon Pro Bold';
+    font-size: medium;
+    font-weight: bold;
+    color: #0066FF;
+     border-radius: 25px;
+    border: 2px solid #0066FF;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+    }
